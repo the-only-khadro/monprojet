@@ -113,6 +113,7 @@ public class form1 extends javax.swing.JFrame {
         String poste = jComboBox1.getSelectedItem().toString();
         int dorsale = Integer.parseInt(jTextField2.getText());
         jTextArea1.setText("bienvenue "+nom+" notre "+poste);
+        
     }//GEN-LAST:event_jButton1ActionPerformed
 
     /**
